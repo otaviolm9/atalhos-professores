@@ -1,13 +1,8 @@
 
-/* VERSÃO CSS: 1.0.11 */
+/* VERSÃO CSS: 1.0.11-1 */
 
 body {
     background-color:#136460
-}
-
-header {
-    font-family: Arial, Helvetica, sans-serif;
-    color: white;
 }
 
 h1#titulo {
@@ -21,6 +16,7 @@ h2#versao {
     color: white;
     font-size: 1.15em;
     text-align: right;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 main {
